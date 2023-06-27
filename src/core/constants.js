@@ -5,6 +5,7 @@
  */
 
 const _PI = Math.PI;
+const _TAU = Math.PI*2;
 
 /**
  * Version of this p5.js.
